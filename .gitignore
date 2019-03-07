@@ -1,3 +1,14 @@
+# Caveat :
+#
+# To igonore directory or folder "/folder name/"
+#
+# To ignore single file "filename."
+#
+# To ignore file type "filename.class"
+#
+
+
+
 /dist/
 /node_modules/
 *.class
